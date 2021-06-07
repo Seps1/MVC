@@ -1,0 +1,8 @@
+{
+    "name": "bengkel/bpwl",
+    "type": "project",
+    "license": "gpl",
+    "require": {
+        "google/apiclient": "^2.9"
+    }
+}
